@@ -448,7 +448,7 @@ terraform destroy --auto-approve
 
 ---
 
-### Screenshots (Optional but Recommended)
+### Screenshots 
 
 The following screenshots can be added to further strengthen proof of work:
 
