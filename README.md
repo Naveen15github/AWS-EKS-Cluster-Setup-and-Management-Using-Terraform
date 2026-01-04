@@ -4,6 +4,8 @@
 
 In this project, **I designed and implemented an end-to-end AWS EKS (Elastic Kubernetes Service) cluster using Terraform** to demonstrate Infrastructure as Code (IaC), Kubernetes orchestration, and AWS cloud best practices.
 
+![ ](proof/eks-cluster-active.png)
+
 The goal of this project was to **provision a scalable, repeatable, and production-ready Kubernetes infrastructure** on AWS, starting from networking (VPC) to a fully functional EKS cluster with managed worker nodes.
 All resources were created, verified, and managed **entirely using Terraform**, without any manual configuration in the AWS Console.
 
@@ -456,6 +458,10 @@ The following screenshots can be added to further strengthen proof of work:
 * `kubectl get pods -A` output
 * Nginx pod in running state
 ![EKS Cluster Active](proof/eks-cluster-active.png)
+![Kubectl Pods](proof/kubectl-pods.png)
+![Kubectl Pods](proof/kubectl-pods.png)
+![Kubectl Pods](proof/kubectl-pods.png)
+![Kubectl Pods](proof/kubectl-pods.png)
 ![Kubectl Pods](proof/kubectl-pods.png)
 
 ---
