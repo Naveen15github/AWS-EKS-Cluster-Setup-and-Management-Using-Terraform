@@ -4,7 +4,7 @@
 
 In this project, **I designed and implemented an end-to-end AWS EKS (Elastic Kubernetes Service) cluster using Terraform** to demonstrate Infrastructure as Code (IaC), Kubernetes orchestration, and AWS cloud best practices.
 
-![ ](proof/eks-cluster-active.png)
+![ ](https://github.com/Naveen15github/AWS-EKS-Cluster-Setup-and-Management-Using-Terraform/blob/8b7cc413769251372f11b6a18bb9e90e0d37b1a0/Gemini_Generated_Image_htppaqhtppaqhtpp.png)
 
 The goal of this project was to **provision a scalable, repeatable, and production-ready Kubernetes infrastructure** on AWS, starting from networking (VPC) to a fully functional EKS cluster with managed worker nodes.
 All resources were created, verified, and managed **entirely using Terraform**, without any manual configuration in the AWS Console.
@@ -457,12 +457,12 @@ The following screenshots can be added to further strengthen proof of work:
 * EC2 worker nodes running
 * `kubectl get pods -A` output
 * Nginx pod in running state
-![EKS Cluster Active](proof/eks-cluster-active.png)
-![Kubectl Pods](proof/kubectl-pods.png)
-![Kubectl Pods](proof/kubectl-pods.png)
-![Kubectl Pods](proof/kubectl-pods.png)
-![Kubectl Pods](proof/kubectl-pods.png)
-![Kubectl Pods](proof/kubectl-pods.png)
+![EKS Cluster Active](https://github.com/Naveen15github/AWS-EKS-Cluster-Setup-and-Management-Using-Terraform/blob/8b7cc413769251372f11b6a18bb9e90e0d37b1a0/Screenshot%20(337).png)
+![Kubectl Pods](https://github.com/Naveen15github/AWS-EKS-Cluster-Setup-and-Management-Using-Terraform/blob/8b7cc413769251372f11b6a18bb9e90e0d37b1a0/Screenshot%20(338).png)
+![Kubectl Pods](https://github.com/Naveen15github/AWS-EKS-Cluster-Setup-and-Management-Using-Terraform/blob/8b7cc413769251372f11b6a18bb9e90e0d37b1a0/Screenshot%20(339).png)
+![Kubectl Pods](https://github.com/Naveen15github/AWS-EKS-Cluster-Setup-and-Management-Using-Terraform/blob/8b7cc413769251372f11b6a18bb9e90e0d37b1a0/Screenshot%20(340).png)
+![Kubectl Pods](https://github.com/Naveen15github/AWS-EKS-Cluster-Setup-and-Management-Using-Terraform/blob/8b7cc413769251372f11b6a18bb9e90e0d37b1a0/Screenshot%20(341).png)
+![Kubectl Pods](https://github.com/Naveen15github/AWS-EKS-Cluster-Setup-and-Management-Using-Terraform/blob/8b7cc413769251372f11b6a18bb9e90e0d37b1a0/Screenshot%20(342).png)
 
 ---
 
